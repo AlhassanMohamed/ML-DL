@@ -1,0 +1,12 @@
+CNN
+https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721
+https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050
+http://scs.ryerson.ca/~aharley/vis/conv/flat.html
+http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
+https://www.datacamp.com/community/tutorials/cnn-tensorflow-python
+https://medium.com/data-science-group-iitr/building-a-convolutional-neural-network-in-python-with-tensorflow-d251c3ca8117
+https://towardsdatascience.com/build-your-own-convolution-neural-network-in-5-mins-4217c2cf964f
+https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/
+https://skymind.ai/wiki/convolutional-network
+https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+https://www.tensorflow.org/tutorials/estimators/cnn#logits_layer
