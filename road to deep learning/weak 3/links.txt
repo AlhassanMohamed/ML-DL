@@ -1,0 +1,3 @@
+http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
+http://ruder.io/optimizing-gradient-descent/
+http://adventuresinmachinelearning.com/vanishing-gradient-problem-tensorflow/
