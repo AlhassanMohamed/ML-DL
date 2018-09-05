@@ -1,2 +1,2 @@
 # deeplearning_work
-my code for deeplearning 
+my code for deeplearning and machine learning
