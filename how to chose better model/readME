@@ -1,1 +1,10 @@
-how to chose better model
+how to chose better model ?
+we have all this question !!!
+so what you have to do to chose your model.
+first you have to train all featuer you have and look to p-value if your column is bigger than 0.05 remove it.
+so you will ask me how to chose p-value ?
+if you want the answer you have to look at youtube this math and i will not expalin math here.
+in my exmaple i delete column by column because the p-value of column is bigger than 0.05
+so you have to look to my models and you will understand what i am saying.
+best model is model --> 3 
+because he have biggest Adi R-square.
